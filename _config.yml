@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Lefteris Manassakis"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

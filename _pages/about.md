@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Brief information about my research interests, professional experience and qualifications. 
+Brief information about my education, professional experience and research interests. 
 
 **Current role**
 
@@ -32,6 +32,6 @@ I have co-authored 5 peer-reviewed publications in leading international confere
 
 **Research Interests**
 
-Internet routing, network automation, Internet measurements and network security.
+Internet routing, Internet measurements, network security and network automation.
 
 

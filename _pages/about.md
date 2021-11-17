@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Lefteris Manassakis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my corner of the web. 
+Brief information about my research interests, professional experience and qualifications. 
 
 **Current role**
 

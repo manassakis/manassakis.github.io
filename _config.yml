@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lefteris Manassakis"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lefteris Manassakis"
+  name             : #"Lefteris Manassakis"
   avatar           : "lm.jpg"
   bio              : "Co-founder and Chief Operating Officer at Code BGP"
   location         : "Heraklion, Crete, Greece"

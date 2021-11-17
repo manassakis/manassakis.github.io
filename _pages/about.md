@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website. 
-You can check the publications I co-authored, my CV, or use the side links to contact me. 
+Thank you for visiting my corner of the web. 
 
 Brief Intro
 ======

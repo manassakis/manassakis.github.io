@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Co-founder and COO"
+  name             : "Lefteris Manassakis"
   avatar           : "lm.jpg"
-  bio              : #"Co-founder and Chief Operating Officer at Code BGP"
+  bio              : "Co-founder and Chief Operating Officer at Code BGP"
   location         : "Heraklion, Crete, Greece"
   employer         : "https://www.codebgp.com/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

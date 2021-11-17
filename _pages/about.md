@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Network engineer who has shifted his focus on networking research, and has recently become a founder/entrepreneur. 
+Network engineer who has shifted his focus on networking research. Recently I became a founder/entrepreneur. 
 
 **Current role**
 

@@ -28,7 +28,7 @@ I have worked for 20+ years as a network/systems engineer, pre-post sales suppor
 
 **Research Projects**
 
-I have co-authored 5 peer-reviewed publications in leading international conferences (ACM SIGCOMM, ACM IMC, ACM HOTNETS), and I have participated in many European projects (ERC "NetVolution", RIPE NCC "ARTEMIS", ERC PoC "PHILOS", ERC PoC "RAVEN"). 
+I have co-authored 5 peer-reviewed publications in leading networking/systems conferences and journals (ACM SIGCOMM, ACM IMC, ACM HotNets, IEEE/ACM Transactions on Networking), and I have participated in many European projects (ERC "NetVolution", RIPE NCC "ARTEMIS", ERC PoC "PHILOS", ERC PoC "RAVEN"). 
 
 **Research Interests**
 

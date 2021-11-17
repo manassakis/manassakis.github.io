@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Brief information about my education, professional experience and research interests. 
+Network engineer who has shifted his focus on networking research, and has recently become a founder/entrepreneur. 
 
 **Current role**
 

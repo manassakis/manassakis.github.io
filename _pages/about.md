@@ -16,7 +16,7 @@ Co-founder and Chief Operating Officer at [Code BGP](https://www.codebgp.com/abo
 
 **Education**
 
-Computer Science degree from the [Hellenic Open University](https://www.linkedin.com/school/hellenic-open-university/), and master’s degree in Information Security from [Royal Holloway, University of London](https://london.ac.uk/courses/information-security) (in progress).
+Computer Science degree from the [Hellenic Open University](https://www.linkedin.com/school/hellenic-open-university/), and master’s degree in Information Security from [Royal Holloway, University of London](https://london.ac.uk/courses/information-security) (on hold).
 
 **Certifications and volunteer experience**
 

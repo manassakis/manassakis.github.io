@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Lefteris Manassakis"
-excerpt: "About me"
+excerpt: "Lefteris Manassakis"
 author_profile: true
 redirect_from: 
   - /about/

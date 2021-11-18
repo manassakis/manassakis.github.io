@@ -24,11 +24,11 @@ Cisco professional certifications (CCNA\CCNP). Between 2016-2021, I represented 
 
 **Work experience**
 
-I have worked for 20+ years as a network/systems engineer, pre-post sales support, and technical support manager for many companies and organizations, such as head of technical support of the [Greek School Network](https://www.sch.gr/english) for the region of Crete. Prior to founding Code BGP, I worked for 5 years in the Foundation for Research and Technology - Hellas ([FORTH](https://www.forth.gr/en/)) as a research engineer, and a member of the [INSPIRE research group](https://www.inspire.edu.gr/). 
+I have worked for 20+ years as a network/systems engineer, pre-post sales support, and technical support manager for many companies and organizations, such as head of technical support of the [Greek School Network](https://www.sch.gr/english) for the region of Crete. Prior to founding Code BGP, I worked for 5 years at the Foundation for Research and Technology - Hellas ([FORTH](https://www.forth.gr/en/)) as a research engineer, and a member of the [INSPIRE research group](https://www.inspire.edu.gr/). 
 
 **Research papers**
 
-I have co-authored 5 peer-reviewed publications in leading networking/systems conferences and journals (ACM SIGCOMM, ACM IMC, ACM HotNets, IEEE/ACM Transactions on Networking). For more information please check my [Google Scholar profile](https://scholar.google.com/citations?user=I-yz4qEAAAAJ&hl).
+I have co-authored 5 peer-reviewed publications in leading networking/systems conferences and journals (ACM SIGCOMM (best paper award), ACM IMC, ACM HotNets, IEEE/ACM Transactions on Networking). For more information please check my [Google Scholar profile](https://scholar.google.com/citations?user=I-yz4qEAAAAJ&hl).
 
 **Research Interests**
 

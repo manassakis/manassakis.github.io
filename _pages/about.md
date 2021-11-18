@@ -30,7 +30,7 @@ I have worked for 20+ years as a network/systems engineer, pre-post sales suppor
 
 I have co-authored 5 peer-reviewed publications in leading networking/systems conferences and journals (ACM SIGCOMM (best paper award), ACM IMC, ACM HotNets, IEEE/ACM Transactions on Networking). For more information please check my [Google Scholar profile](https://scholar.google.com/citations?user=I-yz4qEAAAAJ&hl).
 
-**Research Interests**
+**Research interests**
 
 Internet routing, Internet measurements, network security and network automation.
 

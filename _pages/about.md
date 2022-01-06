@@ -16,7 +16,7 @@ Co-founder and Chief Operating Officer at [Code BGP](https://www.codebgp.com/abo
 
 **Education**
 
-Computer Science degree from the [Hellenic Open University](https://www.linkedin.com/school/hellenic-open-university/), and master’s degree in Information Security from [Royal Holloway, University of London](https://london.ac.uk/courses/information-security) (on hold).
+Computer Science degree from the [Hellenic Open University](https://www.linkedin.com/school/hellenic-open-university/), and master’s diploma in Information Security from [Royal Holloway, University of London](https://london.ac.uk/courses/information-security).
 
 **Certifications and volunteer experience**
 
@@ -24,7 +24,7 @@ Cisco professional certifications (CCNA\CCNP). Between 2016-2021, I represented 
 
 **Work experience**
 
-I have worked for 20+ years as a network/systems engineer, pre-post sales support, and technical support manager for many companies and organizations, such as head of technical support of the [Greek School Network](https://www.sch.gr/english) for the region of Crete. Prior to founding Code BGP, I worked for 5 years at the Foundation for Research and Technology - Hellas ([FORTH](https://www.forth.gr/en/)) as a research engineer, and a member of the [INSPIRE research group](https://www.inspire.edu.gr/). 
+I have worked for 20+ years as a network/systems engineer, pre-post sales support, and technical support manager for many companies and organizations, such as head of technical support of the [Greek School Network](https://www.sch.gr/english) for the region of Crete (a network of 1000+ schools). Prior to founding Code BGP, I worked for 5 years at the Foundation for Research and Technology - Hellas ([FORTH](https://www.forth.gr/en/)) as a research engineer, and a member of the [INSPIRE research group](https://www.inspire.edu.gr/). 
 
 **Research papers**
 
@@ -34,4 +34,7 @@ I have co-authored 5 peer-reviewed publications in leading networking/systems co
 
 Internet routing, Internet measurements, network security and network automation.
 
+**Trivia**
+
+I love human communication, used to be a radio show host. Sports fan, especially basketball, tennis and MMA. Enjoy reading Scandi Noir novels and watching movies with gangsters. 
 

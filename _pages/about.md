@@ -24,7 +24,7 @@ Cisco professional certifications (CCNA\CCNP). Between 2016-2021, I represented 
 
 **Work experience**
 
-I have worked for 20+ years as a network/systems engineer, pre-post sales support, and technical support manager for many companies and organizations, such as head of technical support of the [Greek School Network](https://www.sch.gr/english) for the region of Crete (a network of 1000+ schools). Prior to founding Code BGP, I worked for 5 years at the Foundation for Research and Technology - Hellas ([FORTH](https://www.forth.gr/en/)) as a research engineer, and a member of the [INSPIRE research group](https://www.inspire.edu.gr/). 
+I have worked for 15+ years as a network/systems engineer, pre-post sales support, and technical support manager for many companies and organizations, such as head of technical support of the [Greek School Network](https://www.sch.gr/english) for the region of Crete (a network of 1000+ schools). Prior to founding Code BGP, I worked for 5 years at the Foundation for Research and Technology - Hellas ([FORTH](https://www.forth.gr/en/)) as a research engineer, and a member of the [INSPIRE research group](https://www.inspire.edu.gr/). 
 
 **Research papers**
 
